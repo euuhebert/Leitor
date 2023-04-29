@@ -1,0 +1,12 @@
+
+
+indc = 13
+soma = 0
+k = 0
+
+while( k < indc):
+    k= k + 1 
+    soma = soma + 1
+
+
+print(soma)
